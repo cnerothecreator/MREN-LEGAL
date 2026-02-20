@@ -1,0 +1,307 @@
+# MREN Terms of Service
+
+**Effective Date:** February 20, 2026  
+**Last Updated:** February 20, 2026  
+**Operated By:** Meta Real Estate Network (MREN)  
+**Jurisdiction:** Federal Republic of Nigeria
+
+---
+
+## 1. Agreement to Terms
+
+These Terms of Service ("Terms") constitute a legally binding agreement between you ("User", "you", "your") and Meta Real Estate Network ("MREN", "we", "us", "our") governing your access to and use of the MREN platform at mren.africa and associated subdomains, applications, and services (collectively, the "Platform").
+
+By creating an account, accessing, or using the Platform, you confirm that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, you must not use the Platform.
+
+If you are using the Platform on behalf of a company, organization, or other entity, you represent and warrant that you have the authority to bind that entity to these Terms.
+
+---
+
+## 2. Platform Overview
+
+### 2.1 What MREN Is
+
+MREN is a witness-driven real estate attribution platform that connects Property Developers, Content Creators, Realtors, and Buyers within an ecosystem designed to track, verify, and reward marketing contributions to property sales in Nigeria. The Platform operates the proprietary Witness to Sale™ attribution system.
+
+### 2.2 What MREN Is Not
+
+| MREN Is Not | Clarification |
+|-------------|---------------|
+| A real estate brokerage | MREN is an attribution and commission orchestration platform, not a licensed brokerage |
+| A financial institution | MREN records commission entitlements; actual fund transfers occur through external banking channels |
+| A property valuation service | MREN does not appraise, value, or guarantee the worth of any listed property |
+| A legal advisor | MREN does not provide legal advice regarding property transactions, title verification, or contractual matters |
+| A video hosting platform | All video content is hosted on third-party platforms (YouTube, TikTok, Instagram); MREN stores links only |
+| A guarantor of transactions | MREN facilitates connections and records attribution but does not guarantee the completion or outcome of any property transaction |
+
+---
+
+## 3. Eligibility and Account Registration
+
+### 3.1 Eligibility
+
+To use the Platform, you must be at least 18 years of age, have the legal capacity to enter into binding agreements under Nigerian law, and provide accurate and complete registration information.
+
+### 3.2 Account Creation
+
+When registering, you will select one of the following roles:
+
+| Role | Description | Status Upon Registration |
+|------|-------------|--------------------------|
+| **Buyer** | Individuals seeking to purchase or inquire about properties | Active immediately |
+| **Realtor** | Individuals distributing content via tracked links to earn commission | Active immediately |
+| **Creator** | Individuals producing video content about listed properties | Pending admin verification |
+| **Developer/Owner** | Individuals or entities listing properties for sale | Pending admin verification |
+
+### 3.3 Account Responsibilities
+
+You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately of any unauthorized use of your account. MREN is not liable for losses arising from unauthorized access to your account where such access resulted from your failure to protect your credentials.
+
+### 3.4 Account Verification
+
+Certain roles require identity verification before full platform access is granted. You agree to provide truthful, accurate, and complete information during the verification process. Providing false or misleading information is grounds for immediate account suspension or termination.
+
+---
+
+## 4. User Roles and Obligations
+
+### 4.1 Property Developers/Owners
+
+By listing a property on MREN, you represent and warrant that:
+
+- You have legal authority to market the property for sale, supported by valid title documentation
+- All property information, descriptions, images, and pricing you provide are accurate and not misleading
+- The commission pool percentage you set is within the Platform's defined ranges (House: 2–7%, Land: 5–17%) and you accept the obligation to honor commission payouts when a Witness to Sale™ record is generated for your property
+- You will cooperate with the Platform's verification process and respond to buyer inquiries in good faith
+- You will not list properties that are subject to legal disputes, encumbrances, or government acquisition orders without disclosure
+
+### 4.2 Content Creators
+
+By submitting content to MREN, you represent and warrant that:
+
+- You are the original creator of the content or have obtained all necessary rights and permissions to use it
+- Your content does not infringe upon any third party's intellectual property, privacy, or other rights
+- Your content accurately represents the property it promotes and does not contain false or materially misleading claims about the property's features, price, title status, or location
+- You understand that content is subject to admin review and approval before it becomes visible on the Platform
+- You grant MREN a non-exclusive, worldwide, royalty-free license to display, reference, and link to your content within the Platform for the purpose of property marketing and attribution tracking
+
+### 4.3 Realtors
+
+By distributing content via MREN tracking links, you agree that:
+
+- You will distribute content through legitimate channels and will not engage in spam, deceptive advertising, or practices that misrepresent the properties or the MREN platform
+- You understand that your commission entitlement is determined by the Witness to Sale™ attribution system and is subject to the commission split scenarios defined by the Platform
+- You will not manipulate tracking data, generate fraudulent clicks, or engage in any activity designed to artificially inflate attribution metrics
+- You will not interfere with another Realtor's or Creator's attribution by manipulating links, cookies, or buyer behavior
+
+### 4.4 Buyers
+
+By using the Platform as a Buyer, you acknowledge that:
+
+- MREN facilitates connections between you and property sellers but does not act as a party to any property transaction
+- You are responsible for conducting your own due diligence on any property, including independent verification of title documents, property conditions, and legal status
+- Commission data, creator earnings, and attribution details are not visible to you and are not relevant to your property purchase decision
+- Any property inquiry you submit may be shared with the listing Developer/Owner and attributed Creator or Realtor for the purpose of facilitating your transaction
+
+---
+
+## 5. The Witness to Sale™ System
+
+### 5.1 How Attribution Works
+
+The Witness to Sale™ system tracks the chain of influence from content creation through distribution to buyer inquiry and sale confirmation. When a buyer's purchase of a property can be attributed to a Creator's content and/or a Realtor's distribution efforts, a Witness to Sale™ record is generated.
+
+### 5.2 Attribution Rules
+
+Attribution is determined by the following hierarchy:
+
+| Scenario | Attribution | Commission Split |
+|----------|-------------|-----------------|
+| Buyer engaged with one Creator's content only | Creator receives full attribution | Creator: 100% of commission pool |
+| Buyer engaged with one Creator's content via a Realtor's link | Creator and Realtor share attribution | Creator: 70%, Realtor: 30% |
+| MREN Media content distributed by a Realtor | MREN Media and Realtor share attribution | MREN Media: 50%, Realtor: 50% |
+| Buyer came via Realtor link with no Creator content | Realtor receives full attribution | Realtor: 100% of commission pool |
+| Super-Realtor created and distributed own content | Super-Realtor receives full attribution | Super-Realtor: 100% of commission pool |
+
+### 5.3 Attribution Time Windows
+
+| Window | Duration | Description |
+|--------|----------|-------------|
+| Attribution Cookie | 60 days | Period during which a buyer's interaction with a tracking link remains active for attribution purposes |
+| Ledger Lock | 365 days | Period during which a recorded lead retains its attribution, even if the cookie has expired |
+
+### 5.4 Immutability of Witness Records
+
+Once a Witness to Sale™ record is generated, it is permanent and immutable. Records cannot be modified or deleted except by executive override with a mandatory audit log entry. This immutability protects all parties by ensuring that attribution cannot be retroactively altered.
+
+### 5.5 Dispute Resolution
+
+If you believe a Witness to Sale™ record contains an error in attribution, you may submit a dispute through the Platform. Disputes are reviewed by MREN administrators. During the dispute period, associated payouts are held in escrow. The administrator's determination is final, subject to the immutability doctrine.
+
+---
+
+## 6. Commission and Payments
+
+### 6.1 Commission Pools
+
+Property Developers set a commission pool percentage for each listed property within the following ranges:
+
+| Property Type | Minimum | Maximum |
+|---------------|---------|---------|
+| House | 2% | 7% |
+| Land | 5% | 17% |
+
+The commission pool is calculated as a percentage of the property's listed sale price.
+
+### 6.2 Commission Entitlement
+
+Commission entitlements are generated when a Witness to Sale™ record is created following a confirmed sale. Entitlements are recorded on the Platform and represent an obligation of the Property Developer to pay the attributed parties.
+
+### 6.3 Payout Process
+
+In the current phase of the Platform, all payouts are processed manually. MREN records entitlements; actual fund transfers are facilitated through external banking channels. MREN does not hold funds in escrow or act as a payment intermediary.
+
+### 6.4 Tax Obligations
+
+Users are solely responsible for any tax obligations arising from income earned through the Platform, including but not limited to income tax, value-added tax (VAT), and withholding tax as applicable under Nigerian tax law. MREN does not provide tax advice and is not responsible for users' tax compliance.
+
+---
+
+## 7. Intellectual Property
+
+### 7.1 MREN Platform
+
+The Platform, including its design, code, features, branding, "Witness to Sale™" trademark, and all associated intellectual property, is owned by MREN. You may not copy, reproduce, modify, distribute, or create derivative works of any part of the Platform without our prior written consent.
+
+### 7.2 User Content
+
+You retain ownership of content you create and submit to the Platform (property listings, videos, images, descriptions). By submitting content to MREN, you grant us a non-exclusive, worldwide, royalty-free license to display, reference, link to, and promote your content within the Platform for its intended purpose.
+
+### 7.3 Property Listings
+
+Property listing data submitted by Developers is used exclusively within the MREN ecosystem. MREN does not syndicate, resell, or distribute listing data to third parties without the Developer's consent.
+
+---
+
+## 8. Prohibited Conduct
+
+You agree not to:
+
+- Provide false, misleading, or fraudulent information in your profile, property listings, or content submissions
+- Manipulate the attribution system, including generating fake clicks, creating fraudulent leads, or tampering with tracking cookies
+- List properties you do not have legal authority to sell or market
+- Submit content that infringes on third-party intellectual property rights
+- Harass, threaten, or abuse other Platform users
+- Attempt to access another user's account or data without authorization
+- Use automated tools, bots, or scripts to interact with the Platform without our written permission
+- Circumvent or attempt to circumvent the Platform's security measures, role-based access controls, or data visibility restrictions
+- Use the Platform for money laundering, fraud, or any activity that violates Nigerian law
+- Spam or send unsolicited communications through the Platform's messaging or inquiry systems
+- Create multiple accounts to manipulate attribution, commission calculations, or verification status
+
+---
+
+## 9. Content Moderation
+
+### 9.1 Review Process
+
+All property listings and content submissions are subject to review and approval by MREN administrators before they become publicly visible on the Platform.
+
+### 9.2 Rejection and Removal
+
+MREN reserves the right to reject or remove any content that violates these Terms, misrepresents a property, infringes on intellectual property rights, contains inappropriate material, or is otherwise inconsistent with the Platform's standards. When content is rejected, the submitting user will be notified with a reason for rejection.
+
+### 9.3 User Reporting
+
+Users may report content they believe violates these Terms. Reports are reviewed by MREN administrators and actioned at our discretion.
+
+---
+
+## 10. Limitation of Liability
+
+### 10.1 Platform Role
+
+MREN is a technology platform that facilitates connections and tracks attribution. MREN is not a party to property transactions between Developers and Buyers. We do not guarantee the accuracy of property listings, the quality of content, the completion of transactions, or the payment of commissions.
+
+### 10.2 Disclaimer of Warranties
+
+The Platform is provided on an "as is" and "as available" basis. To the maximum extent permitted by law, MREN disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+### 10.3 Limitation
+
+To the maximum extent permitted by Nigerian law, MREN's total liability to you for any claims arising from or related to your use of the Platform shall not exceed the total commission amounts earned by you through the Platform in the 12 months preceding the claim, or Fifty Thousand Naira (₦50,000), whichever is greater.
+
+### 10.4 Exclusions
+
+MREN is not liable for losses arising from property transaction disputes between Developers and Buyers, inaccurate property information provided by Developers, content quality or accuracy of Creator submissions, failure of third-party services (video hosting, payment processors, internet service providers), force majeure events, or your own failure to conduct due diligence on property transactions.
+
+---
+
+## 11. Indemnification
+
+You agree to indemnify, defend, and hold harmless MREN, its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including legal fees) arising from your use of the Platform, your violation of these Terms, your violation of any third party's rights, or any content you submit to the Platform.
+
+---
+
+## 12. Account Suspension and Termination
+
+### 12.1 By MREN
+
+We may suspend or terminate your account at any time if you violate these Terms, engage in fraudulent activity, fail to complete the verification process within a reasonable time, or if we reasonably believe your account poses a risk to the Platform or other users. Where possible, we will provide notice and an opportunity to remedy the violation before termination.
+
+### 12.2 By You
+
+You may deactivate your account at any time through the Platform's Settings page or by contacting support@mren.africa. Upon deactivation, your profile will be removed from public visibility. However, data required for legal compliance, active Witness to Sale™ records, and pending commission entitlements will be retained in accordance with our Privacy Policy and legal obligations.
+
+### 12.3 Effect of Termination
+
+Upon termination, your right to use the Platform ceases immediately. Pending commission entitlements that have been confirmed via Witness to Sale™ records prior to termination remain valid and payable. Unconfirmed attributions and pending leads are forfeited.
+
+---
+
+## 13. Governing Law and Dispute Resolution
+
+### 13.1 Governing Law
+
+These Terms are governed by and construed in accordance with the laws of the Federal Republic of Nigeria.
+
+### 13.2 Dispute Resolution
+
+Any dispute arising from these Terms or your use of the Platform shall first be submitted to mediation in Lagos, Nigeria. If mediation fails to resolve the dispute within 30 days, either party may pursue resolution through arbitration in Lagos under the Arbitration and Mediation Act 2023. The language of arbitration shall be English.
+
+### 13.3 Commission Disputes
+
+Disputes specifically relating to Witness to Sale™ attribution and commission allocation are first handled through the Platform's internal dispute resolution process as described in Section 5.5.
+
+---
+
+## 14. Modifications to Terms
+
+We reserve the right to modify these Terms at any time. Material changes will be communicated to registered users via email notification and/or prominent notice on the Platform at least 14 days before the changes take effect. Your continued use of the Platform after the effective date of modified Terms constitutes acceptance of those modifications.
+
+---
+
+## 15. Severability
+
+If any provision of these Terms is found to be unenforceable or invalid by a court of competent jurisdiction, that provision shall be limited or eliminated to the minimum extent necessary, and the remaining provisions shall remain in full force and effect.
+
+---
+
+## 16. Entire Agreement
+
+These Terms, together with the Privacy Policy and any role-specific agreements presented during the verification process, constitute the entire agreement between you and MREN regarding your use of the Platform and supersede all prior agreements, representations, and understandings.
+
+---
+
+## 17. Contact Information
+
+For questions about these Terms of Service:
+
+**Meta Real Estate Network (MREN)**  
+Email: legal@mren.africa  
+Support: support@mren.africa  
+Address: Lagos, Nigeria
+
+---
+
+*These Terms of Service are governed by the laws of the Federal Republic of Nigeria.*
