@@ -1,0 +1,214 @@
+# MREN Privacy Policy
+
+**Effective Date:** February 20, 2026  
+**Last Updated:** February 20, 2026  
+**Operated By:** Meta Real Estate Network (MREN)  
+**Jurisdiction:** Federal Republic of Nigeria  
+**Applicable Law:** Nigeria Data Protection Act (NDPA) 2023, Nigeria Data Protection Regulation (NDPR) 2019
+
+---
+## 1. Introduction
+
+Meta Real Estate Network ("MREN", "we", "us", "our") operates a witness-driven real estate attribution platform accessible at mren.africa and associated subdomains (the "Platform"). This Privacy Policy explains how we collect, use, store, share, and protect your personal information when you access or use our Platform, whether as a Property Developer, Content Creator, Realtor, Buyer, or visitor.
+
+We are committed to safeguarding your privacy and processing your personal data in compliance with the Nigeria Data Protection Act 2023, the Nigeria Data Protection Regulation 2019, and applicable international data protection standards.
+
+By accessing or using the Platform, you acknowledge that you have read and understood this Privacy Policy. If you do not agree with any part of this policy, please discontinue use of the Platform.
+
+---
+
+## 2. Information We Collect
+
+### 2.1 Information You Provide Directly
+
+| Category | Data Collected | When Collected |
+|----------|---------------|----------------|
+| **Account Information** | Full name, email address, phone number, password (encrypted) | At registration |
+| **Profile Information** | Display name, company/brand name, profile photo, bio | During profile setup |
+| **Role Selection** | Your chosen role (Developer, Creator, Realtor, Buyer) | At registration |
+| **Property Listings** | Property titles, descriptions, prices, addresses, images, video links, commission pool preferences | When developers submit listings |
+| **Content Submissions** | Video URLs (YouTube, TikTok, Instagram links), content titles, platform identifiers | When creators submit content |
+| **Inquiry Data** | Contact details, property interest, messages | When buyers submit inquiries |
+| **Payment Information** | Bank name, account number, account name | When setting up payout preferences |
+| **Identity Verification** | Government-issued ID (for verified roles) | During verification process |
+
+### 2.2 Information Collected Automatically
+
+| Category | Data Collected | Purpose |
+|----------|---------------|---------|
+| **Device Information** | Browser type, operating system, device type, screen resolution | Platform optimization |
+| **Usage Data** | Pages viewed, features used, time spent, click patterns | Service improvement |
+| **Attribution Data** | Tracking link clicks, referral sources, content views, cookie identifiers | Sales attribution (core platform function) |
+| **Log Data** | IP address, access times, error logs | Security and troubleshooting |
+| **Location Data** | City-level location derived from IP address | Localized property recommendations |
+
+### 2.3 Information from Third Parties
+
+We may receive information from authentication providers (such as Google) if you choose to sign in using third-party services. We do not purchase personal data from data brokers or third-party sources.
+
+---
+
+## 3. How We Use Your Information
+
+We process your personal data for the following purposes, each with a lawful basis under the NDPA 2023:
+
+| Purpose | Lawful Basis |
+|---------|-------------|
+| Creating and managing your account | Performance of contract |
+| Operating the Witness to Sale™ attribution system | Performance of contract; Legitimate interest |
+| Matching buyers with properties and creators with opportunities | Performance of contract |
+| Processing commission calculations and payout entitlements | Performance of contract |
+| Generating and storing immutable Witness to Sale™ records | Legitimate interest; Legal obligation |
+| Sending transactional communications (verification status, sale confirmations, payout notifications) | Performance of contract |
+| Verifying user identities and preventing fraud | Legal obligation; Legitimate interest |
+| Improving Platform functionality, performance, and user experience | Legitimate interest |
+| Complying with legal obligations, resolving disputes, and enforcing agreements | Legal obligation |
+| Sending marketing communications about MREN features and opportunities | Consent (opt-in) |
+
+We do not use your personal data for automated decision-making or profiling that produces legal or similarly significant effects without your explicit consent.
+
+---
+
+## 4. Attribution Cookies and Tracking
+
+### 4.1 How Attribution Works
+
+MREN uses cookies and similar technologies to operate its core attribution system — the mechanism that ensures Content Creators and Realtors are credited when their marketing efforts contribute to a property sale.
+
+| Cookie | Purpose | Duration |
+|--------|---------|----------|
+| **Attribution Cookie** | Records which Creator's content and which Realtor's tracking link a buyer interacted with | 60 days |
+| **Session Cookie** | Maintains your login state | Session (cleared on browser close) |
+| **Preference Cookie** | Stores your display preferences (theme, language) | 12 months |
+
+### 4.2 Attribution Data Retention
+
+Attribution data captured through cookies is stored in our database for a maximum of 365 days (the "Ledger Lock" period) from the date of the buyer's first interaction. This retention period is necessary to accurately attribute sales that may close months after initial engagement, which is common in Nigerian real estate transactions.
+
+After the 365-day Ledger Lock expires, attribution data is anonymized and retained only for aggregate analytics purposes.
+
+### 4.3 Your Cookie Choices
+
+You may manage cookie preferences through your browser settings. However, disabling attribution cookies will prevent the Platform from tracking sales attribution, which may affect Creators' and Realtors' ability to earn commissions from your interactions.
+
+Essential cookies required for Platform security and functionality cannot be disabled while using the Platform.
+
+---
+
+## 5. How We Share Your Information
+
+We do not sell your personal data. We share information only in the following circumstances:
+
+| Recipient | Data Shared | Purpose |
+|-----------|-------------|---------|
+| **Property Developers** | Buyer inquiry details (name, contact, property interest) | To facilitate property sales and buyer communication |
+| **Creators and Realtors** | Anonymized lead counts, attribution confirmations (no buyer personal details) | Commission tracking and performance reporting |
+| **Platform Administrators** | All platform data as necessary | Verification, dispute resolution, compliance |
+| **Service Providers** | Data necessary for the service (hosting, email delivery, payment processing) | Platform operations |
+| **Legal Authorities** | Data as required by law, court order, or government request | Legal compliance |
+
+### 5.1 Commission Data Visibility
+
+Commission pool percentages, commission amounts, and payout details are visible only to the Property Developer who set them, the Creator and Realtor attributed to a sale, and Platform Administrators. Commission data is never displayed to Buyers or the general public.
+
+### 5.2 Witness to Sale™ Records
+
+Witness to Sale™ records are immutable attribution records that document who contributed to a property sale. These records contain attribution data (Creator ID, Realtor ID, property details, sale confirmation date) but do not contain buyer financial details or sensitive personal information. They may be shared with parties to a commission dispute as part of our dispute resolution process.
+
+---
+
+## 6. Data Storage and Security
+
+### 6.1 Where We Store Data
+
+Your data is stored on secure cloud infrastructure provided by Supabase (hosted on Amazon Web Services). Our primary data servers are located in regions that comply with international data protection standards. Where data is transferred outside Nigeria, we ensure appropriate safeguards are in place as required by the NDPA 2023.
+
+### 6.2 Security Measures
+
+We implement industry-standard security measures including:
+
+- Encryption of data in transit (TLS 1.2+) and at rest (AES-256)
+- Row-Level Security (RLS) policies ensuring role-based data access
+- Encrypted password storage using bcrypt hashing
+- Regular security audits and vulnerability assessments
+- Access controls limiting employee access to personal data on a need-to-know basis
+- Audit logging of all administrative actions affecting user data or Witness records
+
+### 6.3 Data Breach Response
+
+In the event of a personal data breach that poses a risk to your rights, we will notify the Nigeria Data Protection Commission (NDPC) within 72 hours of becoming aware of the breach, and will notify affected individuals without undue delay as required by the NDPA 2023.
+
+---
+
+## 7. Data Retention
+
+| Data Category | Retention Period | Justification |
+|---------------|-----------------|---------------|
+| Account information | Duration of account + 2 years after deletion | Legal and compliance obligations |
+| Property listings | Duration of listing + 3 years after delisting | Transaction record-keeping |
+| Witness to Sale™ records | Indefinite (immutable by design) | Core platform function; legal proof of attribution |
+| Attribution and tracking data | 365 days from initial interaction, then anonymized | Attribution window (Ledger Lock period) |
+| Inquiry and lead data | 2 years from creation | Sales cycle completion |
+| Audit logs | 5 years | Regulatory compliance |
+| Marketing preferences | Until consent is withdrawn | Consent-based processing |
+
+---
+
+## 8. Your Rights
+
+Under the NDPA 2023 and NDPR 2019, you have the following rights regarding your personal data:
+
+| Right | Description |
+|-------|-------------|
+| **Right of Access** | Request a copy of the personal data we hold about you |
+| **Right to Rectification** | Request correction of inaccurate or incomplete personal data |
+| **Right to Erasure** | Request deletion of your personal data, subject to legal retention obligations |
+| **Right to Restrict Processing** | Request limitation of how we process your data in certain circumstances |
+| **Right to Data Portability** | Receive your data in a structured, commonly used format |
+| **Right to Object** | Object to processing based on legitimate interest or for direct marketing |
+| **Right to Withdraw Consent** | Withdraw previously given consent at any time |
+
+### 8.1 Exercising Your Rights
+
+To exercise any of these rights, contact us at privacy@mren.africa or through the Settings page on the Platform. We will respond to your request within 30 days.
+
+### 8.2 Limitations
+
+Certain data may not be eligible for deletion due to legal obligations, including Witness to Sale™ records (which are immutable by design to protect all parties in commission attribution) and data required for ongoing dispute resolution.
+
+---
+
+## 9. Children's Privacy
+
+The Platform is not intended for use by individuals under the age of 18. We do not knowingly collect personal information from minors. If we become aware that we have collected data from a person under 18, we will take steps to delete such information promptly.
+
+---
+
+## 10. Third-Party Links and Services
+
+The Platform may contain links to third-party websites and services, including video hosting platforms (YouTube, TikTok, Instagram) where Creator content is hosted. We are not responsible for the privacy practices of these third-party services. We encourage you to review their respective privacy policies.
+
+---
+
+## 11. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices, technology, legal requirements, or Platform features. We will notify you of material changes by posting the updated policy on the Platform and, where appropriate, sending you an email notification.
+
+The "Last Updated" date at the top of this policy indicates when the most recent changes were made.
+
+---
+
+## 12. Contact Us
+
+For privacy-related inquiries, requests, or complaints:
+
+**Data Protection Officer**  
+Meta Real Estate Network (MREN)  
+Email: privacy@mren.africa  
+Address: Lagos, Nigeria
+
+If you are unsatisfied with our response to a privacy concern, you have the right to lodge a complaint with the Nigeria Data Protection Commission (NDPC) at https://ndpc.gov.ng.
+
+---
+
+*This Privacy Policy is governed by the laws of the Federal Republic of Nigeria.*
